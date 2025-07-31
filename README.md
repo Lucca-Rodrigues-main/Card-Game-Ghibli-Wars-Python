@@ -3,6 +3,10 @@ Ghibli Wars is a role cards turn based game made in Python with Pygame. You star
 
 <img width="735" height="560" alt="menu" src="https://github.com/user-attachments/assets/70d9e6b6-6b05-4df7-84f4-83791b152fb6" />
 
+## Download
+As the files are large, the game can be downloaded from Google Drive with all its dependencies at the link below.
+https://drive.google.com/drive/folders/1GdqK3rTZQ5HwY7A6bVufEEBntSpD6KtN?usp=sharing
+
 ## Instructions
 Ghibli Wars is a role cards turn based game. In this game, you have four cards to chose from, and you must click on one to begin your turn. There are three types of cards: attack, defense and potion.
 You begin the game with 100 HP. Attack cards deal the amount of damage shown on the card, while defense cards lessen the amount of damage taken; the applied defense is shown in blue text, and damage taken while defense is active is displayed in purple text to indicate that some of the damage was blocked. Potion cards can either recover or reduce your HP, so choose wisely.
